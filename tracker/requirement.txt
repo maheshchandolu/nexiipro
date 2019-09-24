@@ -1,0 +1,15 @@
+Django==2.2.2
+django-cors-headers==3.0.2
+django-filter==2.1.0
+django-filters==0.2.1
+requests==2.22.0
+requests-oauthlib==1.2.0
+psycopg2==2.7.4
+psycopg2-binary==2.8.3
+django-simple-email-confirmation==0.60
+djangorestframework==3.9.4
+urllib3==1.25.3
+validate-email==1.3
+
+
+
